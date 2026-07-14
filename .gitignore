@@ -1,0 +1,39 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# Arduino / PlatformIO
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.a
+*.d
+*.lst
+*.eep
+.pio/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
