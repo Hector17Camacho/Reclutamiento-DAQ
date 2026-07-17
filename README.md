@@ -48,7 +48,7 @@ El procesamiento realizado incluye:
 - Visualización de resultados mediante gráficas y dashboard.
 - Generación de un reporte técnico con conclusiones y acciones recomendadas.
 
-El análisis se encuentra documentado mediante un **Jupyter Notebook**, scripts de Python, gráficas, capturas del dashboard y un reporte técnico en PDF.
+El análisis se encuentra documentado mediante un **Jupyter Notebook**, scripts de Python, gráficas y capturas del dashboard.
 
 ---
 
