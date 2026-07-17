@@ -85,7 +85,7 @@ El repositorio contiene los principales entregables de ambas actividades:
 - Thinkercad
 - Arduino IDE
 - Visual studio code
-- Google COllab
+- Google Collab
 
 ## Inteligencia artificial utilizada
 
