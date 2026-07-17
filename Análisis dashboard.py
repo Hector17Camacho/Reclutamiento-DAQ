@@ -3,7 +3,7 @@
 
 """
 Análisis de Telemetría — Formula SAE (PyQt5 + Matplotlib)
-Dashboard profesional con diagrama G-G, diagnóstico automático, detección de anomalías y reportes.
+Dashboard con diagrama G-G, diagnóstico automático, detección de anomalías y reportes.
 """
 
 import sys
